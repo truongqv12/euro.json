@@ -32,6 +32,8 @@
             "name": "Switzerland",
             "code": "SUI"
           },
+          "score1": 1,
+          "score2": 3,
           "group": "Group A"
         },
         {
