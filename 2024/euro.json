@@ -48,6 +48,8 @@
             "name": "Croatia",
             "code": "CRO"
           },
+          "score1": 3,
+          "score2": 0,
           "group": "Group B"
         },
         {
@@ -62,6 +64,8 @@
             "name": "Albania",
             "code": "ALB"
           },
+          "score1": 2,
+          "score2": 1,
           "group": "Group B"
         },
         {
